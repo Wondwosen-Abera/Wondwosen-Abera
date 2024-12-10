@@ -1,5 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" alt="Welcome GIF" />
+</p>
 
-<img src="https://media1.tenor.com/m/8PDB3JNNq98AAAAd/silicon-valley.gif" />
 <h1 align="center">Hi 👋, I'm Wondwosen Abera</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia.</h3>
 
