@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" alt="Welcome GIF" />
+  <img src="https://media1.tenor.com/m/8PDB3JNNq98AAAAd/silicon-valley.gif" alt="Welcome GIF" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Wondwosen Abera</h1>
